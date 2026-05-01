@@ -1,0 +1,1 @@
+Creating a Recipes website to practice HTML skills. No CSS yet.
